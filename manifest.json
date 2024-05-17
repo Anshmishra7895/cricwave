@@ -1,0 +1,17 @@
+{
+    "name" : "CricWave",
+    "version" : "1.0.0", 
+    "description" : "Live cricket updates of all the cricket matches all around the world",
+    "manifest_version" : 3,
+    "author" : "Ansh Mishra", 
+    "icons": {
+        "16": "cricket_icon_16.png",
+        "48": "cricket_icon_48.png",
+        "128": "cricket_icon_128.png"
+      },
+    "action" : {
+        "default_popup" : "popup.html",
+        "default_title" : "CricWave"
+    }
+    
+}
